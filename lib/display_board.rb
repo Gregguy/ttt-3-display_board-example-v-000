@@ -2,4 +2,6 @@
 
 def display_board
   puts 3.times {print "   "}
+  puts 3.times {print "   "}
+  puts 3.times {print "   "}
 end
